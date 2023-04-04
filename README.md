@@ -1,6 +1,5 @@
-# social_media_app
+# Flutter Firebase Social Media App
 
-A new Flutter project.
 
 ## Getting Started
 
